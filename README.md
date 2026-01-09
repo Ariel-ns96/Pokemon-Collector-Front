@@ -38,4 +38,4 @@ Todos los Pokémon obtenidos se registran automáticamente en una **Pokédex per
 ## Ver el portfolio
 
 Podés probar la aplicación en línea aquí:  
-[Ir al portfolio](https://poke-catch-front.vercel.app)
+[Aplicación](https://poke-catch-front.vercel.app)
